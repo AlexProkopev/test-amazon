@@ -1,0 +1,9 @@
+export const cardItem = "bg-white px-[28px] h-[498px] pb-[20px] pt-[49px] max-w-[380px] border rounded-[5px] animate-[fadeIn_0.4s_ease-in-out_forwards]";
+export const companyLogo = "h-[44px] mb-[20px]";
+export const reviewText = "max-w-[318px] text-secondary font-medium text-xl leading-[35px] tracking-normal mb-[60px]";
+export const personWrapper = "flex items-center gap-[10px] relative";
+export const personAvatar = "max-h-[61px] max-w-[61px] rounded-full relative -top-[15px]";
+export const personInfo = "max-w-[220px] ml-[8px]";
+export const quoteMark = "absolute bottom-12 right-[12px] text-[70px] text-[#B6B1B1]";
+export const personName = "font-bold text-[24px] leading-[35px] tracking-normal";
+export const personPosition = "text-[18px]";
